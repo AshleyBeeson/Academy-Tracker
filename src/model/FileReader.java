@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet("/Practice")
+@WebServlet("/Reader")
 public class FileReader extends HttpServlet{
 
     private TestFileDto fileDto;
